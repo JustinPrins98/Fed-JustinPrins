@@ -59,25 +59,32 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  De site van McDonalds is toegankelijk voor de verteller in Windows. Alle afbeeldingen hebben een alt tekst en alle teksten en koppelingen worden duidelijk opgelezen.
+  Als gebruiker vind ik het wel lastig om te navigeren door de slideshow die bovenaan de startpagina staat. Dit komt ook omdat dit een grote slideshow is met meerdere opties.
+
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+ De site is duidelijk te navigeren met het toetsenbord en de tab functie. De site gaat van linksboven  naar beneden wanneer je telkens op tab klikt. Bij de slideshow is het een beetje onduidelijk. Je begint bij een interactie knop in het midden, vervolgens ga je naar links en daarna ga je weer terug naar een logische volgorde. 
+  Ook worden onderaan bij twee tekstvakken * in de tekst geselecteerd in plaats van een button.
+
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  De buttons op de site zijn groot waardoor je ook met een slechte motoriek er nog op kunt klikken.
+  Mocht je echt een heel groot motorisch probleem hebben dan heb je wel een probleem. Om dit op te lossen moeten de buttons
+  nog groter worden gemaakt.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Bij de visuele berperkingen zien de afbeeldingen er iets onsmakelijker uit. Wel is alles leesbaar en is het duidelijk wat
+  een button is. Dit komt vooral door het contrast op de website.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
@@ -91,10 +98,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/html-breakdown1.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/html-breakdown2.png" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
@@ -111,7 +118,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Het maken van de buttons en het plaatsen van de tekst en images in de single column 550px layout ging prima.
+  Het maken van een hamburger menu met Nav items erin en het maken van een slideshow is waar ik vast loop ( ook kan ik 
+  nergens de font die op de website wordt gebruikt terugvinden ).
 
 
   ### Agenda voor meeting
