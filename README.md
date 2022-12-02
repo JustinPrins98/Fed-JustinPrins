@@ -134,11 +134,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Punt 1: Minder kopiëren van de Mcdonals wesbite en minder troep in de code houden.
+  - punt 2: Structuur van de html netjes houden. ( Gebruik html formatter google )
+  - Voor de rest bronnen gebruiken, 
   - ...
 
 </details>
@@ -153,7 +151,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Niks lukt....
 
 
   ### Agenda voor meeting
