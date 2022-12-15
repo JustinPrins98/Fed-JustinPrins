@@ -254,17 +254,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="MainPageScreenshot.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Het document juist opzetten in html ging redelijk soepel ( wel heel veel sections gebruikt).
+  Ik heb veel nieuwe dingen geleerd die met CSS kunnen, bijvoorbeeld Details, Summary, Filters, Grid, Costum properties, dark mode, media queries enzovoort.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="AppPageScreenshot.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Mijn Hamburger menu werkend maken is niet gelukt, te lang mee geworsteld dus heb het maar opgegeven en op andere dingen die op de site staan gefocused.
+  Overzicht houden en de juiste dingen selecteren binnen css vind ik best lastig. 
+  
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -280,8 +283,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details ( details & summary bron )
+  2. https://stackoverflow.com/questions/773672/page-specific-css-rules-where-to-put-them ( class bij html )
+  3. https://www.w3schools.com/css/css_form.asp ( input border-bottom )
+  4. https://codepen.io/robertspier/pen/NWMapEM
 
 </details>
